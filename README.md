@@ -1,16 +1,16 @@
-# admin_app
+Flutter Admin Product Management
+Tính năng:
 
-A new Flutter project.
+Thêm sản phẩm với link ảnh URL.
 
-## Getting Started
+Hiển thị danh sách thời gian thực từ Firebase.
 
-This project is a starting point for a Flutter application.
+Sửa và Xóa sản phẩm (có thông báo xác nhận).
 
-A few resources to get you started if this is your first Flutter project:
+Công nghệ sử dụng:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter SDK
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Google Firebase (Firestore)
+
+Material Design 3
